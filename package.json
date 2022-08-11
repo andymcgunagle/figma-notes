@@ -1,0 +1,21 @@
+{
+  "name": "figma-notes",
+  "version": "1.0.0",
+  "description": "## Resources",
+  "main": "index.js",
+  "scripts": {
+    "save": "git add . && git commit -m \"Figma notes update.\" && git push origin main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andymcgunagle/figma-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andymcgunagle/figma-notes/issues"
+  },
+  "homepage": "https://github.com/andymcgunagle/figma-notes#readme"
+}

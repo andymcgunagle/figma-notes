@@ -10,7 +10,37 @@
 
 - **Open Quick actions:** command + /
 
+- **Duplicate selection:** option + drag
+
+- **Collapse all layers in Layers panel:** option + L
+
+- **Copy properties:** option + command + C
+
+- **Paste properties:** option + command + V
+
 - **Big nudge:** shift + arrows
+
+## Arrange
+
+- **Add auto layout:** shift + A
+
+- **Align left:** option + A
+
+- **Align right:** option + D
+
+- **Align top:** option + W
+
+- **Align bottom:** option + S
+
+- **Align horizontal:** option + H
+
+- **Align vertical:** option + V
+
+## Components
+
+- **Create component:** option + command + K
+
+- **Open components menu:** shift + i
 
 ## Tools
 
@@ -23,8 +53,6 @@
 - **Go to Layers panel:** option + 1
 
 - **Go to Assets panel:** option + 2
-
-- **Collapse all layers:** option + L
 
 ## Zoom
 
@@ -52,41 +80,11 @@
 
 ## Cursor
 
-- **Measure to selection:** option
-
-- **Duplicate selection:** option + drag
-
-## Edit
-
-- **Copy properties:** option + command + C
-
-- **Paste properties:** option + command + V
+- **Measure to selection:** option (select element, hold option, hover over surrounding elements)
 
 ## Transform
 
 - **Place image(s):** shift + command + K
-
-## Arrange
-
-- **Align left:** option + A
-
-- **Align right:** option + D
-
-- **Align top:** option + W
-
-- **Align bottom:** option + S
-
-- **Align horizontal:** option + H
-
-- **Align vertical:** option + V
-
-- **Add auto layout:** shift + A
-
-## Components
-
-- **Create component:** option + command + K
-
-- **Open components menu:** shift + i
 
 ## Plugins
 
